@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "updatedAt": "2026-05-18T12:00:00Z",
   "macOS": {
-    "minimumSupportedVersion": "1.0.1",
-    "latestVersion": "1.0.1",
+    "minimumSupportedVersion": "1.0.0",
+    "latestVersion": "1.0.0",
     "forceUpdate": {
-      "enabled": true,
+      "enabled": false,
       "title": "Update Required",
       "message": "This version of BuildrAI is no longer supported. Update to continue.",
       "downloadURL": "https://buildrai.app"

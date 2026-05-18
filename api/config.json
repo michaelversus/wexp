@@ -3,7 +3,7 @@
   "updatedAt": "2026-05-18T12:00:00Z",
   "macOS": {
     "minimumSupportedVersion": "1.0.1",
-    "latestVersion": "1.0.0",
+    "latestVersion": "1.0.1",
     "forceUpdate": {
       "enabled": true,
       "title": "Update Required",

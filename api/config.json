@@ -1,10 +1,11 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-05-18T12:00:00Z",
+  "updatedAt": "2026-08-28T00:00:00Z",
   "macOS": {
     "minimumSupportedVersion": "1.0.0",
     "latestVersion": "1.0.0",
     "refreshIntervalSeconds": 3600,
+    "appHangReportingEnabled": false,
     "forceUpdate": {
       "enabled": false,
       "title": "Update Required",

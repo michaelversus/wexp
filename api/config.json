@@ -5,7 +5,7 @@
     "minimumSupportedVersion": "1.0.0",
     "latestVersion": "1.0.0",
     "refreshIntervalSeconds": 3600,
-    "appHangReportingEnabled": false,
+    "appHangReportingEnabled": true,
     "forceUpdate": {
       "enabled": false,
       "title": "Update Required",

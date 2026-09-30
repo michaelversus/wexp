@@ -3,5 +3,14 @@
   "analytics": {
     "allowed": true,
     "updatedAt": "2026-04-01T12:00:00Z"
+  },
+  "updatePolicy": {
+    "minimumSupportedVersion": "1.2.0",
+    "forceUpdate": {
+      "enabled": true,
+      "title": "Update Required",
+      "message": "This version of NSAssets is no longer supported. Update NSAssets to continue.",
+      "downloadURL": "https://apps.apple.com/app/id6760512142"
+    }
   }
 }

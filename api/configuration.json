@@ -7,7 +7,7 @@
   "updatePolicy": {
     "minimumSupportedVersion": "1.2.0",
     "forceUpdate": {
-      "enabled": true,
+      "enabled": false,
       "title": "Update Required",
       "message": "This version of NSAssets is no longer supported. Update NSAssets to continue.",
       "downloadURL": "https://apps.apple.com/app/id6760512142"

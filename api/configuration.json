@@ -5,7 +5,7 @@
     "updatedAt": "2026-04-01T12:00:00Z"
   },
   "updatePolicy": {
-    "minimumSupportedVersion": "1.2.0",
+    "minimumSupportedVersion": "1.1.0",
     "forceUpdate": {
       "enabled": false,
       "title": "Update Required",
